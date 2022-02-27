@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grounds of soveraignty and greatness·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85756</idno>
+            <idno type="STC">Wing G2141A</idno>
+            <idno type="STC">ESTC R228404</idno>
+            <idno type="EEBO-CITATION">99896375</idno>
+            <idno type="PROQUEST">99896375</idno>
+            <idno type="VID">154175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2403:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grounds of soveraignty and greatness·</title>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.R. &amp; N.T. and are to be sold by Anthony Lawrence, book-seller in ordinary to Her Majesty, in Exeter-stret, and James Thompson in Eagle Court near the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Leaf B1 is a cancel.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sovereignty --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154175:1"/>
+            <p>The Grounds OF SOVERAIGNTY AND GREATNESS.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 13.7.</hi>
+               </bibl>
+               <p>Reddite ergo omnibus debita: cui tributum, tributum: cui vectigal, vectigal; cui timorem, timorem: cui HONO<g ref="char:EOLhyphen"/>REM HONOREM.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> &amp; <hi>N. T.</hi> and are to be ſold by <hi>Anthony Lawrence,</hi> Book-ſeller in Ordinary to Her Majeſty, in <hi>Exeter-ſtret,</hi> and <hi>James Thompſon</hi> in <hi>Eagle Court</hi> near the <hi>Strand,</hi> 1675.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154175:2"/>
+            <pb facs="tcp:154175:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Piece is Forreign, and as haſtily put into Engliſh, as uſually Men are into new Cloaths againſt ſome ſuddain Solemnity; or a Traveller into the dreſs of the Coun<g ref="char:EOLhyphen"/>trey where he arrives. The haſte, I hope, will excuſe the faults; and the near approach of this Seſsion of Parli<g ref="char:EOLhyphen"/>ament, to the undertaking, may excuſe the haſte: Being it was a <hi>Stranger,</hi> I was loath it ſhould loſe the opportu<g ref="char:EOLhyphen"/>nity of most Authentick <hi>Naturaliza<g ref="char:EOLhyphen"/>tion;</hi> And being <hi>Loyal,</hi> it could not hope for greater applauſe, than from thoſe, who have ſo ſignalized them<g ref="char:EOLhyphen"/>ſelves in that Virtue, as in a manner to repair the ghastly Ruines of the late
+<pb facs="tcp:154175:3"/>Rebellion; <hi>At home,</hi> by inſpiring com<g ref="char:EOLhyphen"/>fort to the Sufferers, and Repentance to the Guilty: <hi>And abroad,</hi> by freeing us from Reproach, and defacing the <hi>Marks</hi> of our Diſgrace, even where the Emulation of our Neighbours ad<g ref="char:EOLhyphen"/>ded to the depth of their native <hi>Die.</hi>
+            </p>
+            <p>If Any one ſhall think this Paper too ſmall for ſo great a Subject, as it carry<g ref="char:EOLhyphen"/>eth in the Front, Let him conſider, that the nakedneſs of Truth ren<g ref="char:EOLhyphen"/>dreth it leſs bulkie, and that what is Solid, is likewiſe Compact: but ra<g ref="char:EOLhyphen"/>ther inſtead of an Apologie, Let him peruſe the Treatiſe it ſelf; Wherein, I hope, the Majeſty of the ſenſe will ſhine through, and thereby illuſtrate, the meanneſs of my Expreſsion, and whilſt it gathers praiſe for my Author, will at leaſt obtain pardon for me.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 11. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154175:3"/>
+            <head>THE GROUNDS OF SOVERAIGNTY AND GREATNESS.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">M</seg>EN have for Greatneſs moſt contrary Inſtincts, which notwithſtanding pro<g ref="char:EOLhyphen"/>ceed alike from the general Corruption of their Nature. They love it; and they hate it; They admire it, and they deſ<g ref="char:EOLhyphen"/>piſe it. They love it, becauſe they ſee therein whatſoever they deſire, <hi>viz.</hi> Wealth, Pleaſure, Honour and Power. They hate it, be<g ref="char:EOLhyphen"/>cauſe it depreſſeth and abaſeth them, making them ſenſi<g ref="char:EOLhyphen"/>ble of their want of thoſe things which they love. They admire it, becauſe they are dazz'led with its brightneſs. They deſpiſe it likewiſe ſometimes, or at leaſt pretend to do ſo, that they may ſeem in their own fancies to be raiſed above their Superiours, and build to themſelves an ima<g ref="char:EOLhyphen"/>ginary Greatneſs, by undervaluing thoſe who are high<g ref="char:EOLhyphen"/>ly eſteemed by the Multitude.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>And though ſuch differing Motions of the Mind are all Humane, yet nevertheleſs muſt it be acknowledged, that
+<pb n="2" facs="tcp:154175:4"/>thoſe, which incline us to Honour and Eſteem the Great, are the moſt ſtrong and active, becauſe they concern the moſt Natural Objects of Concupiſcence; Whereas the hatred, which Men bear to Greatneſs, is much weakened by their Dependance on the Great, and the continual need they have of them, which doth inſenſibly warp and bend their Soul towards a reſpect and veneration for that Con<g ref="char:EOLhyphen"/>dition. Men deſpair of raiſing themſelves to an equal height with them, and therefore are willing to partici<g ref="char:EOLhyphen"/>pate of their enjoyments by ſubmitting to them.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>For which reaſon Humane Contempt of Greatneſs is not commonly found but among thoſe, who deſguiſe their Pride with the name of Philoſophie, ſuch as not being a<g ref="char:EOLhyphen"/>ble to ſatisfy their Ambition by becoming Great, endea<g ref="char:EOLhyphen"/>vour to ſatisfy their Malice by vilifying thoſe who are ſo. <hi>Since we cannot arrive to Greatneſs, let us revenge our ſelves by railing at it,</hi> ſaid <hi>Montaigne;</hi> &amp; thereby aptly enough expreſſed this Natural ſentiment of Pride.</p>
+               <p>And if there were ſome Philoſophers, who having rea<g ref="char:EOLhyphen"/>ſon to be contented with the rank they held in the world, did notwithſtanding in appearance contemne and decrie Greatneſs by their Writings and Diſcourſes, this was the effect of more ſubtile and artificial Vanity. Theſe Men took ſufficient care not to forſake their Riches in good earneſt. <hi>Seneca</hi> made it his buſineſs to defend himſelf by <hi>Maximes</hi> againſt ſuch an effective Renunciation. <hi>Infirmi eſt animi pati non poſse Divitias. It is</hi> (ſaith he) <hi>the mark of a weak mind not to be able to endure Riches.</hi> Wherefore then are ſo many fine Diſcourſes made againſt the Great, and againſt Riches? It is becauſe they would joyn toge<g ref="char:EOLhyphen"/>ther, both the worldly Glory of Greatneſs, and the Philo<g ref="char:EOLhyphen"/>ſophical Glory of the Contempt of Greatneſs, that they might be prized not only by the Commonalty, but alſo by Scholars and Philoſophers.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="3" facs="tcp:154175:4"/>
+               <head>IV.</head>
+               <p>Now we ought not to follow our Concupiſcence in ſuch Sentiments, as That inſpireth either for, or againſt the Great: Nay, herein we muſt even diſtruſt our Reaſon, in regard of the near union it hath with the Paſſions, which ordinarily corrupt the ſame, when it judgeth of their Objects. We muſt ſearch for Light more ſure and leſs ſuſpected: And this is no where to be found, but in Chriſtian Religion, ſince it is ſhee alone, that throughly underſtandeth the nature of Concupiſcence, and is able to ſeparate from Greatneſs thoſe falſe advantages, which our Ambition giveth it; and to reſtore thoſe true ones, which our Malice taketh from it.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Nothing of real value is in the World, but what hath been placed there by God, according to that Maxime of the Ghoſpel. <hi>Non poteſt homo accipere quicquam, niſi fuerit ei datum de Coelo.</hi> Whatſoever cometh from God is good and worthy of eſteem: but the productions of Self-love can deſerve only contempt and hatred. We ought then to eſteem that in the Great, which is given them by God, as we ought to deſpiſe that, which is attributed to them by Concupiſcence. And it belongeth to Religion to di<g ref="char:EOLhyphen"/>ſtinguiſh both the one and the other, and to diſcover to us what the Great have truly received from God, and what they hold through the errour and deluſion of Men.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>This Principle once eſtabliſhed will eaſily evince, that the Common Idea, which Men frame of Greatneſs, is al<g ref="char:EOLhyphen"/>together falſe and deceitful, being founded on nothing elſe, but their own erroneous Judgments and vain Con<g ref="char:EOLhyphen"/>ceipts. For, Behold after what manner they compoſe this Idea. They love Power, Wealth and Pleaſure. They ſee theſe poſſeſſed by the Great. For this reaſon they account
+<pb n="4" facs="tcp:154175:5"/>them happy. They prefer their Condition before that of thoſe, who are deſtitute of ſuch enjoyments, and by this Preference they raiſe them above others. But this Appre<g ref="char:EOLhyphen"/>henſion is very falſe. Becauſe Pleaſure, Riches and Power are not true Goods; they appear not ſo, but only to Concupiſcence: On the contrary they are and appear great Evils to Reaſon enlightned by Faith, becauſe they are great Impediments to Piety and Salvation. But Men do not ſtop there. Whereas they perceive that the Opi<g ref="char:EOLhyphen"/>nion, they have of Greatneſs, is not peculiar to them alone, but is likewiſe the Sentiment of the moſt part of the world, who together with them reſpect and admire the Great: on this conſideration they lay a new Baſis both in them<g ref="char:EOLhyphen"/>ſelves and others for enhancing their value for Greatneſs, ſetting before the eyes of their Imagination the Great, en<g ref="char:EOLhyphen"/>compaſſed by vaſt Troopes of Admirers, who look on them as Perſonages infinitely Superiour to the reſt.</p>
+               <p>Such is the Idea, which Concupiſcence createth in us of this Condition. But a very little Light will ſerve to detect the Deluſion. For, All theſe Opinions which lift the Great above others, being only vain fancies, and ſuch as ariſe from the corruption of Man's heart, it is evident that the Greatneſs founded thereon is meerly a Phantome and without ſolidity.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Thus far Philoſophy is able to conduct us; But if we have no other Light, but what is borrowed thence, we ſhall no ſooner be delivered from one errour, than caſt in<g ref="char:EOLhyphen"/>to another, by being made believe that the Great are not indeed worthy of any Honour or Reſpect. And in effect ſuch a Concluſion would neceſſarily deduce it ſelf, ſhould it once be granted, that Greatneſs hath no other founda<g ref="char:EOLhyphen"/>tion, but this heap of falſe Opinions and Deceitful Goods: <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t being certain that I am not bound to honour a Man,
+<pb n="5" facs="tcp:154175:5"/>becauſe he is more miſerable then my ſelf: And that De<g ref="char:EOLhyphen"/>luſion, which ſhould make the Great to think their Con<g ref="char:EOLhyphen"/>dition happy, only becauſe it ſeemeth ſo to a Multitude of ſilly and abuſed People, would deſerve Pity, inſtead of Eſteem and Veneration.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>But the Holy Scriptures aſſure us, that Honour is due unto the Great, and the payment thereof an Obligation, wherewith Chriſtian Piety ought to comply. Now Pie<g ref="char:EOLhyphen"/>ty, being inſeparable from Verity, cannot honour that, which is not truly worthy of Honour. It muſt then be ſaid, that there is Something of God in Greatneſs, ſince the Scrip<g ref="char:EOLhyphen"/>tures on the one ſide commanding us to honour the Great, and on the other teaching, that Honour is due to God al<g ref="char:EOLhyphen"/>one, <hi>Soli Deo Honor &amp; Gloria,</hi> It followeth, that we ho<g ref="char:EOLhyphen"/>nour God by honouring the Great, and conſequently that ſomething of God is in them, whereunto the Reſpect, which is paid them, doth relate. But for the knowing what this is, we muſt look back to the firſt Eſtabliſhment and Origine of Greatneſs.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Concupiſcence, Reaſon and Religion unite themſelves, though diverſly, towards the compoſure of this Condi<g ref="char:EOLhyphen"/>tion, which is called <hi>Greatneſs.</hi> Concupiſcence deſireth it through Pride; Reaſon approveth it for its neceſſari<g ref="char:EOLhyphen"/>neſs among Men; And Religion confirmeth it by the Au<g ref="char:EOLhyphen"/>thority of God himſelf. But for the underſtanding after what manner this cometh to paſs, we muſt conſider, That if Men had continued in the ſtate of Innocence, there had not been any <hi>Great</hi> amongſt them, but being born alike, they would have remained alwayes in the ſame equality of Nature. Man was not made properly to command Men, as S. <hi>Gregory</hi> ſayeth, becauſe one Mans will is not the Rule of anothers; but all have for their only Rule
+<pb n="6" facs="tcp:154175:6"/>the Law of God, which before their Tranſgreſſion they underſtood with ſuch perſpicuity, as not to ſtand in need of being taught it by others.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Wherefore though Greatneſs cannot be ſaid to be an Irregularity in it ſelf, yet it is at leaſt an effect of the Irre<g ref="char:EOLhyphen"/>gularity and Diſorder of Nature, and a neceſſary Conſe<g ref="char:EOLhyphen"/>quent of the firſt Sin. Becauſe as the ſtate of Innocence could not admit Difference and Diſtinction, ſo That of Sin could not ſuffer Equality. Every Man would be a Maſter and Tyrant over the reſt, but being impoſſible that every one ſhould ſucceed in this Deſign, it was ne<g ref="char:EOLhyphen"/>ceſſary either that Reaſon ſhould induce Men to Order, or Force compel them: And ſo the Strong obtain the Maſtery, and the Weaker remain in ſubjection.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>Reaſon knoweth, that this Subjection among Men to one another, is not only inevitable, but alſo moſt requiſite and uſeful. It perceiveth that the Light of Man's under<g ref="char:EOLhyphen"/>ſtanding, ſince his Sin, is too feeble to direct him even in Matters regarding only the Civil life, and that the Cor<g ref="char:EOLhyphen"/>ruption of his Will is ſuch, as rendreth him incapable of be<g ref="char:EOLhyphen"/>having himſelf quietly in a regular Condition. It ſeeth it therefore to be neceſſary, that there ſhould be ſome more groſs and exterior Law, which might oblige him to the performance of his Duty, and ſuch is That of Empire and Dominion. It judgeth convenient, that Laws and Policies ſhould be eſtabliſhed, and that ſome Perſons ſhould have Authority to make them obſerved. It approveth that Hu<g ref="char:EOLhyphen"/>mane Affaires ſhould be regulated, and for the avoiding of Conteſts, that Preference ſhould be given to ſome above others. In fine, It doth not only conſent to the conſtitu<g ref="char:EOLhyphen"/>tion of Greatneſs, but looketh on this Order as the Maſter<g ref="char:EOLhyphen"/>piece of Humane Wit, and the moſt uſeful thing in the World.</p>
+            </div>
+            <div n="12" type="part">
+               <pb n="7" facs="tcp:154175:6"/>
+               <head>XII.</head>
+               <p>But although Concupiſcence deſireth Greatneſs, and Reaſon approveth the eſtabliſhment thereof, yet neither the one nor the other are ſufficient to render it Lawful. Men are not in their own Power, and therefore cannot diſpoſe of themſelves, much leſs of others. God alone is their Soveraign Maſter, neither can They, unleſs by his Command, ſet up or acknowledge any other, without committing Treaſon againſt Him. Should a Company of Slaves, aſſembled in a Priſon, confer on ſome amongſt them the Power of Life and Death over the reſt, it is not to be doubted, but their Maſter would not only laugh at ſo bold and raſh an Eſtabliſhment, but alſo puniſh him, that ſhould make uſe thereof, as an Uſurper and Tyrant, ſince ſuch Authority appertained to Him alone; and therefore it was only He, that could communicate and transfer the ſame to another. This is our Caſe in reſpect of God: We are all his Slaves, and cannot diſpoſe of our ſelves, but by his Order. It would therefore be in vain, that Men gave to ſome amongſt them the Right and Power of governing o<g ref="char:EOLhyphen"/>thers, did not God joyn his Authority to their Choice. And for this Reaſon (according to the Doctrine of St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>) all Capital Puniſhments &amp; Executions of Juſtice would be ſo many Homicides and Murthers, if God, who is the ſole Maſter of the Life &amp; Death of Men, had not given them the Power of inflicting Death on Thoſe, who ſhould violate the Laws of Nature, and trouble their Society. We learn from the Scriptures, that God hath done it, That He hath ratifyed by his Authority theſe Humane Eſtabliſh<g ref="char:EOLhyphen"/>ments, That He approveth the binding and uniting Men together by Laws and Conſtitutions, That He authoriſeth them to make Choice of ſome, for the procuring their Ob<g ref="char:EOLhyphen"/>ſervance, And laſtly, communicateth his Power to the Perſons choſen, for the Government of thoſe that are un<g ref="char:EOLhyphen"/>der them.</p>
+            </div>
+            <div n="13" type="part">
+               <pb n="8" facs="tcp:154175:7"/>
+               <head>XIII.</head>
+               <p>Theſe are not vain Speculations, but Truthes defined by the Holy Scriptures. It is the Apoſtle S. <hi>Paul,</hi> who teacheth us, that all Power cometh from God. <hi>Non eſt Poteſtas niſi a Deo.</hi> That Authorities are eſtabliſhed by God. <hi>Quae au<g ref="char:EOLhyphen"/>tem ſunt, a Deo ordinatae ſunt.</hi> That whoſoever reſiſteth them, doth reſiſt the Order and Appointment of God. <hi>Qui reſi<g ref="char:EOLhyphen"/>stit Poteſtati, Dei ordinationi reſiſtit.</hi> That thoſe who go<g ref="char:EOLhyphen"/>vern the People are the Miniſters of God, for the reward<g ref="char:EOLhyphen"/>ing the Good and puniſhing the Evil. <hi>Dei Miniſter eſt tibi in Bonum, Dei Miniſter eſt vindex in Iram.</hi> And he giveth to Princes the ſame Title, which he taketh himſelf as an Apoſtle. <hi>Sic nos existimet Homo ut Ministros Chriſti.</hi>
+               </p>
+               <p>By this it appeareth, that Greatneſs is a Participation of the Power of God to Men, which he communicateth to Some for the good of Others: That it is a Miniſtry or Of<g ref="char:EOLhyphen"/>fice wherewith he entruſteth them: In ſo much as there being nothing more real, or more juſt then the Authority and Power of God; ſo there can be nothing more real, or more juſt then Greatneſs, in thoſe to whom he truly imparteth the ſame, and who are not Uſurpers.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>It may eaſily be comprehended by this Doctrine, that although Monarchy, and the other Formes of Government may proceed originally from the Choice and Conſent of the People, yet the Authority of Monarchs is not derived from the People, but from God alone. He indeed hath gi<g ref="char:EOLhyphen"/>ven the People Power to Chuſe their Government: But as the Election of thoſe who Chuſe the Biſhop is not that which rendreth him a Biſhop, but only the Paſtoral Au<g ref="char:EOLhyphen"/>thority of <hi>Jeſus Chriſt</hi> imparted to him in his Conſecration; ſo likewiſe the ſole Conſent of the People maketh not Kings, but the communication of God's Royalty and Power, by which they become Lawful, and receive a
+<pb n="9" facs="tcp:154175:7"/>real and ſolid Right over their Subjects. And it is for this reaſon, that the Apoſtle calleth not Princes the Miniſters of the People, but the Miniſters of God; becauſe they hold their Power from none but God.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>From what hath been ſaid may be drawn a Conſequence moſt advantagious for ſucceſſive Monarchies, which is, that although this Forme of Government might originally depend on the People, through the Choice they made of a certain Family, and the Order they appointed for the ſucceſſion; Nevertheleſs this Order being once ſettled, it is not in the People's Power to change the ſame. Becauſe the Authority of making ſuch Conſtitutions doth not re<g ref="char:EOLhyphen"/>ſide any longer in the People, who have deprived them<g ref="char:EOLhyphen"/>ſelves thereof, and had good reaſon ſo to do, there being nothing more profitable for them: But it reſideth now in the King, to whom God communicateth his Power, for the Government of the People. Wherefore as in ſucceſſive Monarchies, the Kings can never die, nor the People ever be without a King; ſo for this cauſe can they never be in a Condition of Making any n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w Law towards the Changing the Order of the Succeſſion, nor have any juſt Authority for the ſame: In regard that this Authority re<g ref="char:EOLhyphen"/>ſideth always in the King, being imparted to him by God, according to that Conſtitution and Order, whereunto the People did voluntarily ſubject themſelves.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>And hence it is likewiſe clear, that it can be never law<g ref="char:EOLhyphen"/>ful for any One to riſe or take Armes againſt his Soveraign, and engage in a Civil War. Since War cannot be made without Authority, and that Soveraign too, <hi>viz.</hi> ſuch as hath a Power of Life and Death, and may juſtify the ſe<g ref="char:EOLhyphen"/>veral Slaughters of the War. Now in a Monarchical State
+<pb n="10" facs="tcp:154175:8"/>this Right over the Lives of Men appertaineth not to any, but to the King alone, and thoſe who exerciſe the ſame by his Authority. So that Rebels being deſtitute of this Right, commit as many Homicides, as they ſlay Men, in a Civil War, becauſe they take away their Lives without a competent Authority, and againſt the Order and Ap<g ref="char:EOLhyphen"/>pointment of God. It is in vain alſo, that they alledge for their juſtification the Diſorders of the State, whereunto they pretend to bring a remedy; in regard that no diſor<g ref="char:EOLhyphen"/>der can give Subjects a liberty to draw the Sword, neither can they have any Authority to make uſe thereof, but by his alone, who hath received it from God.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>This Regal Power and Right of Governing People, which belongeth eſſentially to God, but is communicated by him to Men, for the benefit and good of Men, as we have already ſaid, doth indeed eminently reſide in Kings, but paſſeth alſo and extendeth it ſelf to their Miniſters, and all thoſe who are employed under them for the exerciſe of their Government &amp; preſervation of Order, in ſuch manner as it compriſeth all that Authority, which actuateth and re<g ref="char:EOLhyphen"/>gulateth the whole State, and is variouſly diſtributed ac<g ref="char:EOLhyphen"/>cording to the ſeveral Charges &amp; Miniſtries of the Realm; and whoſoever poſſeſſeth any Portion thereof, is a Miniſter of God, by reaſon of the part he holdeth of His Authority.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>It may be ſaid, that there are in States certain Great<g ref="char:EOLhyphen"/>neſſes, which conſiſt more in the rank of thoſe who poſſeſs them, then in any Authority. Such is the quality of Prin<g ref="char:EOLhyphen"/>ces of the Bloud, which giveth them a Preheminence, but includeth no Juriſdiction, unleſs joyned to ſome Office or Charge. But this Rank it ſelf is a kind of Authority, and proceedeth likewiſe from the Order of God. Becauſe Hu<g ref="char:EOLhyphen"/>mane
+<pb n="11" facs="tcp:154175:8"/>Affaires not being able to ſubſiſt without due Order and Regulation, it was neceſſary that ſuch Preheminences ſhould be conſtituted, and that Some ſhould have Right of being Preferred before Others. And this Preference hath been moſt juſtly accorded to the Princes of the Bloud, and neceſſarily floweth from the nature and genius of ſuc<g ref="char:EOLhyphen"/>ceſſive Monarchies. Becauſe this Forme of Government conſiſting eſſentially in the Election of a certain Family, the People chuſing ſuch as ſhall be of it for their Sove<g ref="char:EOLhyphen"/>raigns, according to the order of their Birth, it is manifeſt, that all thoſe of that Family have right to the Regal Power, and may hereafter happen to arrive thereat, and therefore it is requiſite, that the People ſhould be accuſtomed before hand to look on them with greater Reſpect then the reſt, for as much as otherwiſe, when they ſhould in effect obtain the Scepter, Men would hardly be able to have thoſe ſen<g ref="char:EOLhyphen"/>timents of Submiſſion for them, which ought to be had to<g ref="char:EOLhyphen"/>wards Kings.</p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>By theſe Principles may be reſolved the Queſtion touch<g ref="char:EOLhyphen"/>ing That, which rendreth Great Men worthy of Reſpect. It is neither their Riches, nor their Pleaſure, nor their Pomp; but it is the part they have of the Soveraignty of God, which ought to be Honoured in their Perſons, ac<g ref="char:EOLhyphen"/>cording to the meaſure, which they poſſeſs thereof. It is the Order, wherein God hath placed them by the Diſpo<g ref="char:EOLhyphen"/>ſition of his Providence; In ſo much as this Submiſſion having for its Object, That which is truly worthy of Re<g ref="char:EOLhyphen"/>ſpect, it ought not only to be exteriour and a bare Cere<g ref="char:EOLhyphen"/>mony, but muſt be likewiſe interiour; that is, muſt include the acknowledgment of a real Superiority and Greatneſs, in Thoſe who are honoured after this manner. And it is for this Cauſe, that the Apoſtle commandeth Chriſtians to
+<pb n="12" facs="tcp:154175:9"/>be ſubject to Powers, not only for fear of puniſhment, but alſo through a motive of Conſcience. <hi>Non ſolum propter I<g ref="char:EOLhyphen"/>ram, ſed etiam propter Conſcientiam.</hi>
+               </p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>The Pomp and Splendour, accompanying the State of Great Men, is not that which cauſeth them to deſerve Ho<g ref="char:EOLhyphen"/>nour, but it is nevertheleſs that, which doth make them actually to be honoured by the greateſt part of the world. And becauſe it is juſt that they ſhould be honoured, it is alſo fit, that in order thereunto their Greatneſs ſhould be attended by ſome exteriour Magnificence. For Men are not ſpiritual enough, to acknowledge and honour in them the Authority of God, ſhould they behold them in ſuch an Equipage, as is the ordinary object of their ſcorn and aver<g ref="char:EOLhyphen"/>ſion. Wherefore that Greatneſs may make the impreſſion it ought on their minds, there is a neceſſity that it be firſt made on their ſenſes. It is for this reaſon that Wealth be<g ref="char:EOLhyphen"/>cometh neceſſary to the Great, in proportion to the de<g ref="char:EOLhyphen"/>gree wherein they are, ſince that without it they would not be able to maintain the Decency required by their Condition, and conſequently be diſreſpected and rendred uſeleſs among Men. What therefore <hi>Tertullian</hi> teacheth <hi>De Idol. Cap.</hi> 18. is a palpable miſtake, viz. <hi>That all out<g ref="char:EOLhyphen"/>ward marks of Dignity and Power, and all Ornaments belong<g ref="char:EOLhyphen"/>ing to Great Offices, are not allowed to Christians, and that</hi> Chriſt <hi>reckoned all thoſe things among the Pomps of the Devil, by appearing ſo meanly himſelf, and in a ſtate far enough from all Splendour and Magnificence.</hi> For, Chriſtian Religion is never contrary to right Reaſon: And though <hi>Chriſt</hi> did not aſſume this outward Pomp, it was not becauſe he abſolutely diſapproved the ſame, but becauſe it was not proper for his Function and Miniſtry, which was to ſhow, even in his exteriour Deportment, what
+<pb n="13" facs="tcp:154175:9"/>Diſpoſition all his Diſciples ought inwardly to have. The Great ought then to learn from the Example of <hi>Christ</hi> not to love indeed this Pomp, but muſt not caſt it off, un<g ref="char:EOLhyphen"/>leſs God ſhould inſpire them, abſolutely to quit the World. But we need not wonder at this miſtake of <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> ſince he affirmeth in the ſame Book, <hi>That Chri<g ref="char:EOLhyphen"/>stians are forbidden to judge in Matters concerning the Lives or Honour of Men;</hi> which is contrary to the Doctrine and Practice of the Church.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>In like manner the outward ſigns of Reſpect, which In<g ref="char:EOLhyphen"/>feriours pay to the Gre at, are moſt juſtly due unto them, and the neceſſary attendants of their Condition and Degree. For although perhaps originally they were no<g ref="char:EOLhyphen"/>thing elſe, but the Inventions of Humane Pride, which de<g ref="char:EOLhyphen"/>lighteth to behold others abaſed through its Greatneſs, yet muſt it be acknowledged, that theſe Ceremonies &amp; Reſpects are in themſelves Uſeful and Reaſonable, and therefore though Pride had not introduced them, Reaſon would have done it. Becauſe it is convenient and juſt, that the Great ſhould be honoured by a ſincere and true acknow<g ref="char:EOLhyphen"/>ledgment of God's Order and Appointment, which hath raiſed them above the reſt; But Men have ſo great an Op<g ref="char:EOLhyphen"/>poſition to humble themſelves and own the Superiority of others, that to induce their Minds thereunto, it is neceſſa<g ref="char:EOLhyphen"/>ry firſt to exerciſe and accuſtome their Bodies, whereof the Soul inſenſibly admitting the Bent and Poſture, will eaſily paſs from Ceremony to Truth. And for this reaſon it was fit, that theſe outward demonſtrations of Reſpect ſhould be ſomewhat incommodious and uneaſy, other<g ref="char:EOLhyphen"/>wiſe they would not be ſo manifeſtly diſcerned, to be Ex<g ref="char:EOLhyphen"/>preſſions of Honour towards the Great, but might be looked on, as things done meerly out of pleaſure or con<g ref="char:EOLhyphen"/>venience,
+<pb n="14" facs="tcp:154175:10"/>and by that means be indifferently ſhown to all; which could not have had an efficacy, towards the imprint<g ref="char:EOLhyphen"/>ing on the Mind any ſentiments of Reverence, for thoſe that are Honoured in this manner.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>Some have ſaid that, there being two ſorts of Greatneſs, the one Natural, and the other Eſtabliſhed, we ought to render to the Natural only, thoſe Natural Reſpects, which conſiſt in the eſteem and inward Submiſſion; and give to the Greatneſs of Eſtabliſhment, thoſe Honours only, that are eſtabliſhed, <hi>viz.</hi> certain Ceremonies, invented by Men, for the honouring ſuch Dignities, as they themſelves con<g ref="char:EOLhyphen"/>ſtitute. But to render this Notion altogether ſolid, it muſt be added, that theſe exteriour Ceremonies ought to pro<g ref="char:EOLhyphen"/>ceed from an inward Sentiment, whereby a real Superio<g ref="char:EOLhyphen"/>rity is acknowledged in the Great. For, their Degree in<g ref="char:EOLhyphen"/>cluding, as we have ſaid, a participation of the Authority of God, it meriteth a true and interiour Reſpect. Neither is there as much reaſon to ſay, That the Great have right to exact none other from us, but ſuch kind of outward Ce<g ref="char:EOLhyphen"/>remonies, without any Correſpondence thereunto in the Mind; as there is, that they have no right to require theſe Ceremonies, but only in order to the ſtamping on the Mind a juſt ſenſe and reverence for their State. In ſo much as when they are well aſſured, touching ſome Perſons, that they have ſuch inward Diſpoſitions towards them as they ought, theſe outward Duties may be diſpenſed with, being of no farther uſe.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>It is true, that the Reſpect due unto the Great, ought not to corrupt our Judgment concerning them, nor make us eſteem in them, what is not worthy thereof. This Re<g ref="char:EOLhyphen"/>ſpect is compatible with the knowledge of their faults, nei<g ref="char:EOLhyphen"/>ther
+<pb n="15" facs="tcp:154175:10"/>doth it forbid us, interiourly to prefer thoſe, who have more real Goods and Natural Greatneſs. But becauſe Honour is their due, and it is uſeful to mankind, that it ſhould be paid them, but the Common People have not enough, either of Diſcretion or Equity, to condemn faults, without deſpiſing thoſe, in whom they obſerve them; Every one is obliged, to take an extream care, in ſpeak<g ref="char:EOLhyphen"/>ing of the Great, and all thoſe, to whom Honour is ne<g ref="char:EOLhyphen"/>ceſſary; That Sentence of Holy Scripture, <hi>Speak not evil of the Prince of thy People,</hi> being underſtood of all Superi<g ref="char:EOLhyphen"/>ours, as well Secular as Eccleſiaſtick, <hi>viz.</hi> Univerſally of all ſuch, as any wayes participate of the Power of God. Where<g ref="char:EOLhyphen"/>fore the liberty, which the Commons take, of decrying the Conduct of their Governours, is a thing moſt repugnant to Piety: For beſides that very often they ſpeake raſhly, and without Truth, for want of ſufficient Information, they can hardly ever do it, without ſin and injuſtice; in regard that, by ſuch Diſcourſes, they produce in others a diſpoſition contrary to that which God requireth from them, towards thoſe whom he employeth to govern them.</p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.</head>
+               <p>There are ſome, who would at leaſt, that this Authority, which is to be reſpected, ſhould alwayes be joyned to Me<g ref="char:EOLhyphen"/>rit, accuſing ſuch Laws of injuſtice, as have faſtned the ſame to exteriour quality. How triumphantly do they attack thoſe Conſtitutions, which make Greatneſs to de<g ref="char:EOLhyphen"/>pend on Birth? In the choice of a Pilot (ſay they) it is not regarded, who amongſt the Pretenders is of the better Family: Wherefore is the ſame done in the greater Go<g ref="char:EOLhyphen"/>vernments of Kingdoms and Empires? But this is, be<g ref="char:EOLhyphen"/>cauſe they know not the true extent of the weakneſs and corruption of our Nature. Their reaſoning would be good, were Men Juſt and Reaſonable; but ſince they neither are
+<pb n="16" facs="tcp:154175:11"/>nor will be ſo, it is frivolous and inconcluſive. The Natu<g ref="char:EOLhyphen"/>ral and indeleble Injuſtice of Man's heart, rendreth the pre<g ref="char:EOLhyphen"/>ſent choice, not only Reaſonable, but the Maſter-piece of Reaſon. For, Whom ſhall we chuſe? The moſt Vertu<g ref="char:EOLhyphen"/>ous, the moſt Wiſe, the moſt Valiant. Behold! every one cryeth, that He is this moſt Vertuous, moſt Valiant, and moſt Wiſe. Let us therefore fix our Choice to ſome<g ref="char:EOLhyphen"/>thing exteriour, manifeſt, and inconteſtable. He is the Kings Eldeſt Son. This is clear, and without room for Diſpute. Reaſon cannot do better: Since that Civil War which moſt commonly ſpringeth from the other Method, is the greateſt of Evils, and therefore moſt to be avoided.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>As this is true of the Regal Power, ſo is it likewiſe of the chief Dignities, and firſt Ranks of the State. Were it not good (ſay ſome) that there ſhould be Princes and Nobles of Merit, and not of Birth, and that Men ſhould arrive at this Height by Vertue, and not by a vain Quality? Is it not unjuſt, that the General of an Army, after the Conqueſt of many Provinces, ſhould be forced to give place to a Prince of the Blood without prudence or expe<g ref="char:EOLhyphen"/>rience? No, 'tis not unjuſt, but rather the moſt excellent Stratageme, which Reaſon hath invented, for tempering the haughty Nature of Greatneſs, and freeing that State from the hatred and envie of Inferiours. Should none be Great but through Merit, the Elevation of Perſons to that degree, would continually advertiſe Men, of the prefe<g ref="char:EOLhyphen"/>rence given to others before them, whom they imagining to deſerve leſs then themſelves, would fill the Kingdom with clamours, and complain of the Injuſtice and Partiality of ſuch Promotions. But by uniting Greatneſs to Birth, we calm the Pride of Inferiours, and render Greatneſs leſs piquant and incommodious to them: Men are not aſhamed
+<pb n="17" facs="tcp:154175:11"/>to give place, when they can ſay, <hi>I owe this to his Birth:</hi> This reaſon convinceth the mind, without wounding it by ſpite or jealouſy: Hereunto it is accuſtom'd, and will not reſiſt an eſtabliſhment no waies injurious to its own credit.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>Another advantage ariſing from this eſtabliſhment, is, that our Princes and Great Men will be rendred hereby more humble and free from haughtineſs. It is not arro<g ref="char:EOLhyphen"/>gance for us to remain in that order and degree, where<g ref="char:EOLhyphen"/>in the Providence of God hath placed us, if we uſe the ſame for thoſe ends, which we ought. We may, not<g ref="char:EOLhyphen"/>withſtanding our High Degree, retain ſentiments of hu<g ref="char:EOLhyphen"/>mility within our hearts, and may be able to perceive and acknowledge our failings and miſeries, looking on our Dignity as extrinſick, and not properly belonging to us, but proceeding meerly from the appointment of God. But it would be very difficult for us, to preſerve humility, ſhould we look on our Promotion, as the fruit of our own labour and merits. Having prepoſſeſſed it by our Deſires, and procured it by our Induſtry, we ſhould eaſily be brought to imagine, that it was our due, and that we ſurpaſſed others in Deſerts, as far as we excelled them in Dignity.</p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII.</head>
+               <p>Where Merit is the paſſage to Greatneſs, ſeldom any enter, but through the Gate of Ambition. And by ſub<g ref="char:EOLhyphen"/>ſtituting the Favourite and the Bribe, in the place of ſub<g ref="char:EOLhyphen"/>ſtantial qualities, Men often arrive thereat without Merit; but almoſt ever without Vocation, being only Called ther<g ref="char:EOLhyphen"/>unto by their own Ambition: Whereas thoſe, who are Great by Birth, may truly ſay, That they were called to their State by God, and that He made them Great. So
+<pb n="18" facs="tcp:154175:12"/>that faithfully practiſing the Duties belonging to their Condition, they are, without doubt, in much greater aſſu<g ref="char:EOLhyphen"/>rance of obtaining the Bleſſing and Grace of God, then thoſe, who having raiſed themſelves through motives altogether carnal and vitious, ought rather to leave, then retain their Dignities; ſince they cannot ſay in their con<g ref="char:EOLhyphen"/>ſciences, that God hath lifted them to that height, whi<g ref="char:EOLhyphen"/>ther only their own Pride hath carryed them.</p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII.</head>
+               <p>This manner of honouring the Great, by conſidering in them the part, which they hold of God's Authority, is the more uſeful to publick Society, in regard that being independent of Perſonal qualities; it is ſo likewiſe of all Opinions and Caprichoes concerning them: and by this means becometh fixt and invariable.</p>
+               <p>Behold another Cauſe of the reaſonableneſs of this Honour.</p>
+               <p>It is moſt certain, that Superiours are Miniſters em<g ref="char:EOLhyphen"/>ployed by God, for the procuring to Men the greateſt and moſt eſſential Goods of this World; ſince that, with<g ref="char:EOLhyphen"/>out the eſtabliſhment of this Politick order, Men could not enjoy their Eſtates, inhabit quietly, travel in ſafe<g ref="char:EOLhyphen"/>ty, receive any benefit from Commerce, or advantage from the Induſtry of others, and from humane Society. Were this Order deſtroy'd, none could ſay, that he poſ<g ref="char:EOLhyphen"/>ſeſſed any thing; Men would become enemies to one an<g ref="char:EOLhyphen"/>other, and ſtir up a general Civil war, not to be decided but by force.</p>
+            </div>
+            <div n="29" type="part">
+               <head>XXIX.</head>
+               <p>But for the better underſtanding, how much we are obliged to the Politick Conſtitution, we muſt conſider, that Men by reaſon of their firſt tranſgreſſion, becoming void of Charity, yet ſtill remained full of wants and
+<pb n="19" facs="tcp:154175:12"/>neceſſities, and depending of one another, in a great number of things. In order to the ſupplying theſe ne<g ref="char:EOLhyphen"/>ceſſities, Cupidity hath taken the place of Charity, and effecteth it after a manner, which we cannot enough ad<g ref="char:EOLhyphen"/>mire, and whereunto the ordinary Charity could not arrive. For example; You ſee ſpread all over the Coun<g ref="char:EOLhyphen"/>trey Perſons, who are ready to aſſiſt you, when you tra<g ref="char:EOLhyphen"/>vel: They prepare your lodgings, and other accommo<g ref="char:EOLhyphen"/>dation: You command them what you pleaſe; and they not only obey, but acknowledge for a favour, that you vouchſafe to accept their ſervices: They excuſe not themſelves from any attendance you require. What could be more admirable, then theſe Perſons, were they animated by Charity? But it is Cupidity, which maketh them act, and that with ſo good a grace and exceſs of duty, that (I ſay) they look on it as a boon, to have been employed in ſerving you.</p>
+               <p>Where is that Charity, which is contented to build an Houſe for you, repleniſh it with moveables, adorn it with Tapeſtry, and put the key thereof into your hands? Cupidity will do it, and chearfully too. What Cha<g ref="char:EOLhyphen"/>rity will run to the <hi>Indies</hi> for Medicines, ſtoop to the meaneſt Employments, and not refuſe the baſeſt and moſt painful Offices? Cupidity will perform all this, without grudging.</p>
+               <p>There is nothing then, whereby greater ſervices are done to Men, than by their Cupidity it ſelf. But that this Cupidity may be fitly diſpoſed to render them, it muſt be limited by ſomething, ſince of it ſelf, it hath neither bound nor meaſure; and inſtead of being ſubſervient to human Society, would ruine and deſtroy it. There is no exceſs, whereof it is not capable, being left alone and without check or tye, it's Inclination and natural bent
+<pb n="20" facs="tcp:154175:13"/>tending towards Injuſtice, Rapine, Murther, and the greateſt Diſorders.</p>
+               <p>It was neceſſary therefore, that ſome Art ſhould be found out, for the regulating Cupidity; and this Art is the <hi>Politick Order,</hi> or <hi>State-Government;</hi> which reſtraineth Cupidity by the fear of puniſhment, and applyeth it to the uſes of Civil Society. This Order giveth us Merchants, Phyſitians, Artiſts, and generally whatever conduceth to the pleaſures, or ſatisfyeth the neceſſities of Life. For which reaſon we have a great obligation to the Preſer<g ref="char:EOLhyphen"/>vers thereof, <hi>viz.</hi> ſuch as hold that Authority, which regulateth and maintaineth the State.</p>
+            </div>
+            <div n="30" type="part">
+               <head>XXX.</head>
+               <p>People would admire a Man that ſhould tame Lyons, Bears, Tigers and other ſavage Beaſts, and make them fit for Service. This wonder is done by <hi>State-Government;</hi> ſince that Men filled with Cupidity, are worſe then Ti<g ref="char:EOLhyphen"/>gers, Bears or Lyons; each one would devour the reſt, but yet by means of the Laws &amp; Policy, they are tamed after ſuch ſort, that Services as uſeful, are performed by them, as could proceed from the pureſt Charity.</p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI.</head>
+               <p>State Government is the moſt excellent Invention found out by Men, whereby each particular amongſt them, obtaineth more convenience, than the greateſt and richeſt King could do, were this Order diſcompos'd. How were it poſſible without this Invention, that any one Man (whatever wealth he poſſeſſed, or how many ſervants ſoever attended him) ſhould enjoy thoſe advan<g ref="char:EOLhyphen"/>tages, which now a Citizen of <hi>London</hi> doth, with the Rent of one thouſand pounds <hi>per annum?</hi> What would it coſt him, to ſend Ships all over the World, that ſome might bring him Medicines, others Cloaths, others Cu<g ref="char:EOLhyphen"/>rioſities,
+<pb n="21" facs="tcp:154175:13"/>and the works of diſtant Nations? What number of Servants would ſuffice towards the procuring News, duly every week, from all parts of <hi>Europe?</hi> What Riches would be enough to entertain ſo many Couriers, ſo many Horſes for their Riding, and ſo many Inns for their Lodging, as were neceſſary? How many Soul<g ref="char:EOLhyphen"/>diers were requiſite to ſecure the waies, and defend them from Theeves? What a Troop of Artiſans and Mechanicks to provide him Dwelling, Food, and Ray<g ref="char:EOLhyphen"/>ment? All Arts being joyn'd and link'd together, and having need one of another, a neceſſity would be found of them all: neither would it be ſufficient, to get all theſe things for himſelf; ſince they muſt be procured likewiſe, for all thoſe who are his Officers and work for him; which proceedeth to an infinity. One ſingle <hi>Alderman</hi> hath all this; without labour, care, or trouble. Whatſoever, not only neceſſity, but his fancy craveth, is fetched for him from <hi>China, Peru, Aegypt, Perſia,</hi> or any other part of the <hi>World.</hi> He is exempted from the pains of providing Ships; he is not expoſed to the hazard and ill ſucceſs of Voyages. The waies are free and open to him throughout <hi>Europe:</hi> Poſts are eſtabliſhed, that he may neither want the uſefulneſs of Advice, nor the entertainment of News. There are thoſe, who ſpend their Lives in the ſtudy of Nature, for the remedying his Diſeaſes, and are as ready to ſerve him, as if he kept them at conſtant wages. It may be ſaid with truth, that there are a million of Men, who labour for him. He may reckon in the number of his Servants, all the Arti<g ref="char:EOLhyphen"/>ſans of <hi>England,</hi> and even thoſe of neighbour Countries; ſince they are all diſpoſed to do him ſervice, and he may command them when he pleaſeth, in laying down a ſmall recompence, according to eſtabliſhment; which is the
+<pb n="22" facs="tcp:154175:14"/>leaſt wages, that could be given to Servants. Theſe, who work for him, are not burthenſom or incommodious to him in the leaſt. He is neither obliged to provide for their neceſſities, nor to make their Fortunes. There is no need of Superiour Officers to govern, or inferiour to ſerve them; or if there be, he is not troubled therewith. Who is able to extol theſe advantages enough, which render the condition of private Perſons, equal to that of Kings; and diſpenſing with the Anxieties that attend great Riches, afford them all ſorts of Convenience?</p>
+            </div>
+            <div n="32" type="part">
+               <head>XXXII.</head>
+               <p>That, which maketh the moſt part of the World in<g ref="char:EOLhyphen"/>ſenſible of all this, is a principle of Vanity and Ingrati<g ref="char:EOLhyphen"/>tude: They reap the ſame benefit from thoſe, who la<g ref="char:EOLhyphen"/>bour for the Publick, wherein they themſelves are com<g ref="char:EOLhyphen"/>priſed, as if they wrought for them alone. Their Let<g ref="char:EOLhyphen"/>ters are as well carryed to the furthermoſt parts of the World, by a Courier, that carryeth ten thouſand, as if he carryed but one only. They are as well looked af<g ref="char:EOLhyphen"/>ter, by a Phyſitian, who viſiteth many others, as if he waited on none but them; nay, rather better, ſince by obſerving others, he gaineth experience, and becometh more capable of aſſiſting them; nevertheleſs becauſe they are not the only Perſons, who enjoy theſe goods, they are neither touched nor concern'd. Their neceſſities are as well ſupply'd, but their vanity is not as well ſatisfy'd. Becauſe they have no right to monopolize and arrogate to themſelves in particular all thoſe Men, who do them any ſervice; they account for nothing whatſoever is done.</p>
+               <p>And although the utility, which accrueth to others, doth not diminiſh theirs, it taketh away how ever the ſenſe, they ought to have of this benefit; and they think them<g ref="char:EOLhyphen"/>ſelves obliged to no body, becauſe an infinity of others
+<pb n="23" facs="tcp:154175:14"/>ſhare with them, in both the Advantage and Obligation.</p>
+            </div>
+            <div n="33" type="part">
+               <head>XXXIII.</head>
+               <p>Men do not ordinarily take notice of theſe real Goods, which they receive from Kings, and from the Great; be<g ref="char:EOLhyphen"/>cauſe they never reflect on the common favours of God Almighty, how conſiderable ſoever they are. We ne<g ref="char:EOLhyphen"/>ver conſider with one of the Antients, that we have an high obligation to the Earth, for ſuſtaining us, and ſhould be ſufficiently perplexed, did it ſink from our feet. This oblivion is the proof, but cannot be the excuſe of our Ingratitude. For ſince theſe are benefits, and great ones too, which we receive from God, by the mini<g ref="char:EOLhyphen"/>ſtry of Men, we ought to be thankfull for them to God, and include in our acknowledgement thoſe, whom he appointeth to confer them on us, and maketh the Stew<g ref="char:EOLhyphen"/>ards of his Authority here in the World.</p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIV.</head>
+               <p>Human Obligations, when they are juſt, become the Duties of Religion; becauſe Chriſtian Religion hath for its Rule the Supream Juſtice, and conſiſteth in an exact following the ſame; for which reaſon the Apoſtle com<g ref="char:EOLhyphen"/>mandeth Chriſtians, to pray for Kings, and thoſe, who govern, under them, the Temporal State: And theſe prayers are due unto them, were it only for the Charge they have, of preſerving the Publick Peace and Tran<g ref="char:EOLhyphen"/>quility. Therefore it is certainly a great fault and negli<g ref="char:EOLhyphen"/>gence, not to offer up our prayers for Kings; and we do hereby render our ſelves unworthy of thoſe Goods, which God beſtoweth on Men by their means. Few Perſons make ſufficient reflection hereon. Men are taken up in com<g ref="char:EOLhyphen"/>plaining of the diſorders of the Government, which many times they are ignorant of, but never think of paying that juſt acknowledgement, which is due unto God,
+<pb n="24" facs="tcp:154175:15"/>for the Benefits, that accrue to them, from all Regular Governments. And yet theſe Benefits are infinitely more conſiderable, then thoſe Diſorders, true or falſe, which are the continual ſubject of their Complaint and Mur<g ref="char:EOLhyphen"/>muration.</p>
+               <epigraph>
+                  <q>Reddite ergo quae ſunt Caeſaris, Caeſari. <bibl>Matth. 22.22.</bibl>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
